@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">About</string>
+    <string-array name="txt1">
+        <item>text1_1</item>
+        <item>text1_2</item>
+        <item>text1_3</item>
+        <item>text1_4</item>
+        <item>text1_5</item>
+        <item>text1_6</item>
+        <item>text1_7</item>
+        <item>text1_8</item>
+        <item>text1_9</item>
+        <item>text1_10</item>
+
+    </string-array>
+    <string-array name="txt2">
+        <item>text2_1</item>
+        <item>text2_2</item>
+        <item>text2_3</item>
+        <item>text2_4</item>
+        <item>text2_5</item>
+        <item>text2_6</item>
+        <item>text2_7</item>
+        <item>text2_8</item>
+        <item>text2_9</item>
+        <item>text2_10</item>
+    </string-array>
+</resources>
